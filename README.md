@@ -23,6 +23,8 @@ https://user-images.githubusercontent.com/80880411/187102119-69377f7c-fcab-4653-
 # Tools
 * [Kotlin](https://kotlinlang.org/) 
 * [Glide](https://github.com/bumptech/glide) - Glide is a fast and efficient open source media management and image loading framework for Android.
+* [Google gson](https://github.com/google/gson) - For parsing JSON data.
+
 
 # Network Calls
 * [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.

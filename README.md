@@ -1,5 +1,7 @@
 # News App
 
+Please ⭐️ this repo and share it with others.
+
 # Description
 This project is a news application that has a set of categories that you can follow its news such as sports, health, etc.
 You can also choose the source of the news and you can also search for the news you want.
